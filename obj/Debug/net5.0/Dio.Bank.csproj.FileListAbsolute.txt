@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Desktop\portifolio\.net Fundamentals\Dio.Bank\bin\Debug\net5.0\Dio.Bank.exe
+C:\Users\Marcelo\Desktop\portifolio\.net Fundamentals\Dio.Bank\bin\Debug\net5.0\Dio.Bank.deps.json
+C:\Users\Marcelo\Desktop\portifolio\.net Fundamentals\Dio.Bank\bin\Debug\net5.0\Dio.Bank.runtimeconfig.json
+C:\Users\Marcelo\Desktop\portifolio\.net Fundamentals\Dio.Bank\bin\Debug\net5.0\Dio.Bank.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\portifolio\.net Fundamentals\Dio.Bank\bin\Debug\net5.0\Dio.Bank.dll
+C:\Users\Marcelo\Desktop\portifolio\.net Fundamentals\Dio.Bank\bin\Debug\net5.0\ref\Dio.Bank.dll
+C:\Users\Marcelo\Desktop\portifolio\.net Fundamentals\Dio.Bank\bin\Debug\net5.0\Dio.Bank.pdb
+C:\Users\Marcelo\Desktop\portifolio\.net Fundamentals\Dio.Bank\obj\Debug\net5.0\Dio.Bank.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\portifolio\.net Fundamentals\Dio.Bank\obj\Debug\net5.0\Dio.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\portifolio\.net Fundamentals\Dio.Bank\obj\Debug\net5.0\Dio.Bank.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\portifolio\.net Fundamentals\Dio.Bank\obj\Debug\net5.0\Dio.Bank.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\portifolio\.net Fundamentals\Dio.Bank\obj\Debug\net5.0\Dio.Bank.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\portifolio\.net Fundamentals\Dio.Bank\obj\Debug\net5.0\Dio.Bank.dll
+C:\Users\Marcelo\Desktop\portifolio\.net Fundamentals\Dio.Bank\obj\Debug\net5.0\ref\Dio.Bank.dll
+C:\Users\Marcelo\Desktop\portifolio\.net Fundamentals\Dio.Bank\obj\Debug\net5.0\Dio.Bank.pdb
+C:\Users\Marcelo\Desktop\portifolio\.net Fundamentals\Dio.Bank\obj\Debug\net5.0\Dio.Bank.genruntimeconfig.cache
